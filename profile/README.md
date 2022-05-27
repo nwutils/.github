@@ -1,4 +1,4 @@
-[<img align="left" src="https://nwutils.io/_imgs/meta/fluid.png" alt="NW-Utils logo" width="118" />](https://nwutils.io)
+[<img align="left" src="https://nwutils.io/_imgs/meta/fluid.png" alt="NW-Utils logo" width="110" />](https://nwutils.io)
 
 
 ## NWUtils
